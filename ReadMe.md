@@ -67,7 +67,9 @@ Through this lab, I learned:
 | 🌡️ Temperature | `sensors/temperature` | `pub_temperature.py` | `sub_temperature.py` |
 | 💧 Humidity | `sensors/humidity` | `pub_humidity.py` | `sub_humidity.py` |
 | 🔢 People Counter | `sensors/people_counter` | `pub_people.py` | `sub_people.py` |
----
 
 **Made with 💙 for IoT Learning**
+---
+
+
 
