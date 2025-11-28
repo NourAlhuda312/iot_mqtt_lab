@@ -1,13 +1,17 @@
 ![Header Image](screenshots/ReadMeImage.png)
 ---
-
+<p>
+  <img src="https://img.shields.io/badge/MQTT-Mosquitto-purple" />
+  <img src="https://img.shields.io/badge/Python-Paho-blue" />
+  <img src="https://img.shields.io/badge/OS-Windows-0078D6" />
+  <img src="https://img.shields.io/badge/Student%20ID-12042973-brightgreen" />
+</p>
 ## 🌐 Introduction
 
 This lab demonstrates a fully functional **MQTT-based IoT communication system** using the **Mosquitto Broker** and **Paho MQTT client library**.
 The idea is to simulate multiple sensors publishing data in real-time and multiple subscribers receiving only the data meant for them — just like real IoT cloud communication.
 
 This lab was created as part of the **IoT Course**, showcasing practical hands-on experience with MQTT messaging, topic filtering, and multi-terminal interaction.
-
 ---
 
 ## 🚀 What This Project Does
@@ -70,6 +74,7 @@ Through this lab, I learned:
 
 **Made with 💙 for IoT Learning**
 ---
+
 
 
 
