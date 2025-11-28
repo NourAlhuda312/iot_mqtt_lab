@@ -2,11 +2,11 @@
 ---
 <p>
   <img src="https://img.shields.io/badge/Name-Nour%20AlHuda-6f42c1" />
+    <img src="https://img.shields.io/badge/Student%20ID-12219823-brightorange" />
   <img src="https://img.shields.io/badge/Instructor-DR%20Mo'men%20Abu%20Ghazaleh-0ea5e9" />
   <img src="https://img.shields.io/badge/MQTT-Mosquitto-purple" />
   <img src="https://img.shields.io/badge/Python-Paho-blue" />
   <img src="https://img.shields.io/badge/OS-Windows-0078D6" />
-  <img src="https://img.shields.io/badge/Student%20ID-12219823-brightorange" />
 </p>
 ## 🌐 Introduction
 
@@ -76,6 +76,7 @@ Through this lab, I learned:
 
 **Made with 💙 for IoT Learning**
 ---
+
 
 
 
