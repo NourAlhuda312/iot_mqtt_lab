@@ -3,10 +3,10 @@
 
 ## 🌐 Introduction
 
-This project demonstrates a fully functional **MQTT-based IoT communication system** using the **Mosquitto Broker** and **Paho MQTT client library**.
+This lab demonstrates a fully functional **MQTT-based IoT communication system** using the **Mosquitto Broker** and **Paho MQTT client library**.
 The idea is to simulate multiple sensors publishing data in real-time and multiple subscribers receiving only the data meant for them — just like real IoT cloud communication.
 
-This lab was created as part of the **IoT & Big Data course**, showcasing practical hands-on experience with MQTT messaging, topic filtering, and multi-terminal interaction.
+This lab was created as part of the **IoT Course**, showcasing practical hands-on experience with MQTT messaging, topic filtering, and multi-terminal interaction.
 
 ---
 
@@ -27,9 +27,7 @@ This lab was created as part of the **IoT & Big Data course**, showcasing practi
 ---
 
 ## 🧩 System Architecture
-
 MQTT Topics used in this lab:
-
 ```
 sensors/temperature
 sensors/humidity
@@ -41,7 +39,6 @@ Each subscriber listens to exactly one topic in a dedicated terminal.
 
 
 ## 🎯 Learning Outcomes
-
 Through this lab, I learned:
 
 * How to install & run **Mosquitto MQTT broker**
@@ -73,3 +70,4 @@ Through this lab, I learned:
 ---
 
 **Made with 💙 for IoT Learning**
+
